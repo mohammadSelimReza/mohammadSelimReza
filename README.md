@@ -1,7 +1,7 @@
-### Hi there! I'm Selim Reza 👋
+## Hi there! I'm Selim Reza 👋
 A passionate **Backend Developer** with a keen interest in building scalable and efficient web applications. Proficient in various technologies like C, C++, Python, and JavaScript, and experienced with frameworks such as Django and React.<br> Currenty, I am studying C.S.E at University Of Information Technology and Sciences.
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <p align="left">
   <strong>Languages</strong> :
