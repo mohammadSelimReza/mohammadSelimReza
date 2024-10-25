@@ -4,23 +4,23 @@ A passionate **Backend Developer** with a keen interest in building scalable and
 ### 🛠️ Technologies & Tools
 
 <p align="left">
-  **Languages** :
+  <strong>Languages</strong> :
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <br>
-  **Frameworks** :
+  <strong>Frameworks</strong> :
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <br>
-  **Tools** :
+ <strong>Tools</strong>:
   <img src="https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <br>
- **Databases** :
+ <strong>Databases</strong>:
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
