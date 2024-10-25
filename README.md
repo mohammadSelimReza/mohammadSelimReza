@@ -14,7 +14,7 @@ A passionate **Backend Developer** with a keen interest in building scalable and
 - [Vaccine Management System](https://github.com/mohammadSelimReza/Vaccine_Management_System): Efficient vaccine campaign manager.
 
 ### 📫 How to reach me
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/selim-reza-a38a37318/) | [Email](mailto:selimreza@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/selim-reza-a38a37318/) | [Email](mailto:selimreza@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadSelimReza&layout=compact)
 
