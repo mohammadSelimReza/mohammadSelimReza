@@ -29,26 +29,13 @@ A passionate **Backend Developer** with a keen interest in building scalable and
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/srreza1999/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/selim-reza-a38a37318/) 
 
-### 🚀 Notable Projects
+## 🚀 Notable Projects
 - [Ride-Wave](https://github.com/mohammadSelimReza/Ride_wave_client): A complete ride-booking app (React, Django).
 - [Vaccine Management System](https://github.com/mohammadSelimReza/Vaccine_Management_System): Efficient vaccine campaign manager.
 
-### 📫 How to reach me
+## 📫 How to reach me
 [LinkedIn](https://www.linkedin.com/in/selim-reza-a38a37318/) | [Email](mailto:selimreza@gmail.com)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadSelimReza&layout=compact)
 
-<!--
-**mohammadSelimReza/mohammadSelimReza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
