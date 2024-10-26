@@ -1,6 +1,8 @@
 ## Hi there! I'm Selim Reza 👋
 A passionate **Backend Developer** with a keen interest in building scalable and efficient web applications. Proficient in various technologies like C, C++, Python, and JavaScript, and experienced with frameworks such as Django and React.<br> Currenty, I am studying C.S.E at University Of Information Technology and Sciences.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadselimreza" alt="mohammadselimreza" /></a> </p>
+
 ## 🛠️ Technologies & Tools
 
 <p align="left">
@@ -39,3 +41,8 @@ A passionate **Backend Developer** with a keen interest in building scalable and
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadselimreza&show_icons=true&locale=en&layout=compact" alt="mohammadselimreza" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadselimreza&show_icons=true&locale=en" alt="mohammadselimreza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadselimreza&" alt="mohammadselimreza" /></p>
