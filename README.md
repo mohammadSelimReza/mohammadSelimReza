@@ -27,6 +27,7 @@ A passionate **Backend Developer** with a keen interest in building scalable and
  <strong>Databases</strong>:
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <br>
   <strong>Other Technologies</strong>:
   <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" alt="jwt"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase"/>
