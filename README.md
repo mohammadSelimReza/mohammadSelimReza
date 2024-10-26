@@ -41,10 +41,11 @@ A passionate **Backend Developer** with a keen interest in building scalable and
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadselimreza&show_icons=true&locale=en&layout=compact" alt="mohammadselimreza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadselimreza&show_icons=true&locale=en" alt="mohammadselimreza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadselimreza&" alt="mohammadselimreza" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammadselimreza&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadselimreza" /> </p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadselimreza&show_icons=true&locale=en&layout=compact" alt="mohammadSelimReza" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadselimreza&show_icons=true&locale=en" alt="mohammadSelimReza" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadSelimReza&" alt="mohammadSelimReza" /></p>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammadselimreza&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadSelimReza" /> </p>
