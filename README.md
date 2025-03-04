@@ -46,8 +46,9 @@ A passionate **Backend Developer** with a keen interest in building scalable and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/selim-reza-a38a37318/) 
 
 ## 🚀 Notable Projects
-- [Ride-Wave](https://github.com/mohammadSelimReza/Ride_wave_client): A complete ride-booking app (React, Django).
+- [EduSoft]([https://github.com/mohammadSelimReza/Ride_wave_client](https://github.com/mohammadSelimReza/Learning-Management-System-Client)): Awesome real-world project
 - [Vaccine Management System](https://github.com/mohammadSelimReza/Vaccine_Management_System): Efficient vaccine campaign manager.
+- [TimeKeeper] (https://github.com/mohammadSelimReza/TimeKeeper): A social media app.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadSelimReza&layout=compact)
