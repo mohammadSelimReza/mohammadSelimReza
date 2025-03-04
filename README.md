@@ -71,4 +71,4 @@ Currently, I am studying **C.S.E at University Of Information Technology and Sci
 ---
 
 ## 🎯 Looking for Opportunities  
-I am actively seeking backend developer roles. If you're hiring or would like to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/selim-reza-a38a37318/) or email me at [your-email@example.com].
+I am actively seeking backend developer roles. If you're hiring or would like to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/selim-reza-a38a37318/) or email me at "srreza1999@gmail.com"
