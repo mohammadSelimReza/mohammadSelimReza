@@ -48,7 +48,7 @@ Currently, I am working at **Join Venture Ai** as a Python Backend Developer.
 ---
 
 ## 🚀 Notable Projects  
-- [Vaccine Management System](https://github.com/mohammadSelimReza/Vaccine_Management_System) - Efficient vaccine campaign manager  
+- [EduSoft](https://github.com/mohammadSelimReza/EduSoft---Learning-Management-System) - A learning management system
 - [Dropshipping](https://github.com/mohammadSelimReza/Global-shopping-automation-and-forwarding-platform-server) - A platform not only dropshipping but also more.
 - [Bestowe](https://github.com/mohammadSelimReza/Project-Bestowe-Smart-Gift-Finder-Backend) - Gift finder with Ai  
 
