@@ -2,7 +2,7 @@
 
 ## Hi there! I'm Selim Reza 👋  
 A passionate **Backend Developer** with a keen interest in building scalable and efficient web applications. Proficient in C, C++, Python, and JavaScript, and experienced with frameworks like Django and React.  
-Currently, I am studying **C.S.E at University Of Information Technology and Sciences**.
+Currently, I am working at **Join Venture Ai** as a Python Backend Developer.
 
 ---
 
@@ -48,9 +48,9 @@ Currently, I am studying **C.S.E at University Of Information Technology and Sci
 ---
 
 ## 🚀 Notable Projects  
-- [HandsOn](https://github.com/mohammadSelimReza/hands-on-volunteering-platform-frontend) -A Community-Driven Social Volunteering Platform
-- [EduSoft](https://github.com/mohammadSelimReza/Learning-Management-System-Client) - Awesome real-world project  
 - [Vaccine Management System](https://github.com/mohammadSelimReza/Vaccine_Management_System) - Efficient vaccine campaign manager  
+- [Dropshipping](https://github.com/mohammadSelimReza/Global-shopping-automation-and-forwarding-platform-server) - A platform not only dropshipping but also more.
+- [Bestowe](https://github.com/mohammadSelimReza/Project-Bestowe-Smart-Gift-Finder-Backend) - Gift finder with Ai  
 
 ---
 
@@ -71,4 +71,4 @@ Currently, I am studying **C.S.E at University Of Information Technology and Sci
 ---
 
 ## 🎯 Looking for Opportunities  
-I am actively seeking backend developer roles. If you're hiring or would like to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/selim-reza-a38a37318/) or email me at "srreza1999@gmail.com"
+I am actively seeking backend developer roles. If you're hiring or would like to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/selim-reza-a38a37318/) or email me at "selim.reza.uits@gmail.com"
