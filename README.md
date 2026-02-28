@@ -109,80 +109,69 @@ I build systems that handle real traffic, real money, and real users — from St
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Work
 
-### 🏠 [Scan2Home — Smart Reusable Board](https://github.com/mohammadSelimReza/Scan2Home-Smart-Reusable-Board) `Latest`
+<details open>
+<summary><b>1. Event-Driven Real Estate Platform (Scan2Home)</b></summary>
+<br>
 
-> Automated Real Estate Inventory & Property Management Platform  
-> 🔗 **Live:** [api.selimreza.dev](https://api.selimreza.dev)
+A robust microservices architecture orchestrating property inventory management and automated data extraction.
 
-A production-grade microservices platform for property inventory management and real estate operations.
+-   **The Architecture:** Django (Core API) decoupled from an isolated FastAPI AI module via a secure internal Docker network, reverse-proxied by Nginx.
+-   **The Engineering Art:** Implemented complete service isolation where the AI module operates without internet access, strictly communicating over an internal container socket for enterprise-grade security.
 
-| Component | Stack |
-|-----------|-------|
-| **Backend Engine** | Django, DRF, Gunicorn, Whitenoise |
-| **AI Analytics Module** | FastAPI, Uvicorn, OpenAI/LangChain *(isolated internal network)* |
-| **Infrastructure** | Docker Compose, PostgreSQL 16, Redis 7, Nginx, Certbot SSL |
-| **CI/CD** | GitHub Actions → auto-deploy to production |
+**Tech Highlights:** `Django` `FastAPI` `PostgreSQL 16` `Docker Compose` `GitHub Actions`  
+🔗 [Repository Details](https://github.com/mohammadSelimReza/Scan2Home-Smart-Reusable-Board)
 
-**Key Highlights:**
-- 🤖 AI module is **completely isolated from the internet** — accessible only via secure Docker internal network
-- 📸 Automated property scanning & intelligent data extraction
-- 🛡️ Enterprise-grade security: rotating logs, service isolation, hardened production settings
-- 📱 Full admin dashboard for properties, users, and reviews
+</details>
 
----
+<br>
 
-### 🌍 [Global Shopping Automation & Forwarding Platform](https://github.com/mohammadSelimReza/Global-shopping-automation-and-forwarding-platform-server)
+<details open>
+<summary><b>2. Global Shopping Automation Engine</b></summary>
+<br>
 
-> Multi-marketplace product sourcing & automation engine  
+A resilient product sourcing platform that automates data extraction across major international marketplaces (Amazon, eBay, Nike).
 
-Paste a product link from **Amazon, eBay, Walmart, Nike, or any international marketplace** — the system auto-fetches product details using Playwright + BeautifulSoup. If automation fails, it gracefully degrades to a manual purchase form.
+-   **The Architecture:** A headless browser automation engine built with Playwright and BeautifulSoup, backed by structured PostgreSQL storage and Cloudinary media handling.
+-   **The Engineering Art:** Designed an automated scraping pipeline that gracefully degrades to manual forms upon failure, ensuring zero stuck orders. Integrated local payment gateways (Bkash) with automated PDF invoicing.
 
-**Key Highlights:**
-- 🔗 Real-time product scraping with **Playwright/BeautifulSoup** and integrated **Bkash payment** fail-safes
-- 🛠️ Comprehensive admin dashboard for order lifecycle management
-- 📦 PDF invoice generation (WeasyPrint, xhtml2pdf) & Cloudinary media handling
-- 🔐 JWT auth, PostgreSQL, Gunicorn production deployment
+**Tech Highlights:** `Playwright` `BeautifulSoup` `Django 5.x` `WeasyPrint` `JWT`  
+🔗 [Repository Details](https://github.com/mohammadSelimReza/Global-shopping-automation-and-forwarding-platform-server)
 
----
+</details>
 
-### 🩸 [Phlebotomy Staffing App Backend](https://github.com/mohammadSelimReza/Phlebotomy-Staffing-App-s-Backend-Server)
+<br>
 
-> Clinical staffing marketplace — matching businesses with independent phlebotomists
+<details open>
+<summary><b>3. Clinical Staffing Orchestrator (Phlebotomy Backend)</b></summary>
+<br>
 
-A highly scalable RESTful backend inspired by cross-border marketplace logic, handling matching, scheduling, and payment orchestration.
+A cross-border marketplace backend orchestrating the matching, scheduling, and billing between businesses and independent medical professionals.
 
-**Key Highlights:**
-- 💳 Full **Stripe subscription** integration: multi-tier billing, invoice cycles, split payments
-- 🏗️ Modular microservice-inspired architecture with clear JSON RESTful endpoints
-- ☁️ Docker containerization with structured CI/CD pipelines (AWS EBS/Lightsail/ECS ready)
-- 🧑‍⚕️ Dual-role system: Phlebotomist profiles (credentials, availability matrix) + Business profiles (job postings, contracts, digital signatures)
+-   **The Architecture:** A microservice-inspired REST API mimicking MERN stack decoupling, built on Django with heavy use of PostgreSQL (Core) and Redis (Cache/Broker).
+-   **The Engineering Art:** Engineered complex Stripe subscription lifecycles, handling multi-tier billing, invoice cycles, and split payments seamlessly. Separated domain concerns into deep user modularity (availability matrices vs. digital compliance contracts).
 
----
+**Tech Highlights:** `Stripe API` `Redis` `Docker` `Django REST Framework`  
+🔗 [Repository Details](https://github.com/mohammadSelimReza/Phlebotomy-Staffing-App-s-Backend-Server)
 
-### 🎁 [Bestowe — Smart Gift Finder](https://github.com/mohammadSelimReza/Project-Bestowe-Smart-Gift-Finder-Backend)
+</details>
 
-> AI-powered gift recommendation engine with collaborative funding
+<br>
 
-LLM-powered recommendation engine + collaborative funding via **Stripe** and **Shopify API** for multi-user automated payment reconciliation.
+<details open>
+<summary><b>4. AI-Powered Gift Recommendation System (Bestowe)</b></summary>
+<br>
 
-**Key Highlights:**
-- 🎯 Personalized AI recommendations based on recipient preferences
-- 🤝 Pool-funding: multiple users contribute toward a single gift
-- � External purchase integration with third-party stores
-- Built with Django 5.2, DRF, Simple JWT, PostgreSQL
+An intelligent backend service providing personalized gift recommendations and split-funding mechanisms.
 
----
+-   **The Architecture:** LLM-integrated recommendation engine piped through a robust multi-user authentication layer and database schema.
+-   **The Engineering Art:** Solved the complex logic of multi-user "pool funding" by reconciling Stripe payments with external Shopify API endpoints for third-party marketplace checkout.
 
-### 📚 [EduSoft — Learning Management System](https://github.com/mohammadSelimReza/EduSoft---Learning-Management-System)
+**Tech Highlights:** `LLMs` `PostgreSQL` `Shopify API` `Simple JWT`  
+� [Repository Details](https://github.com/mohammadSelimReza/Project-Bestowe-Smart-Gift-Finder-Backend)
 
-> Full-stack e-learning platform with RBAC security & Swagger-documented APIs
-
-**Key Highlights:**
-- 🔐 Role-Based Access Control (RBAC) with JWT authentication
-- 📖 Swagger-documented, fully tested API surface
-- Built with Django, DRF, PostgreSQL
+</details>
 
 ---
 
