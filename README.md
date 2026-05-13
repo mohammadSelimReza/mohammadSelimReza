@@ -2,17 +2,17 @@
 
 # SELIM REZA
 
-**Backend Engineer · Systems Thinker · Aspiring SRE**
+**Backend Developer · Python · Django · FastAPI**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-reza-a38a37318/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://selimreza.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-reza-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.selimreza.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selim.reza.uits@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadSelimReza)
 
 <br/>
 
-> *Building production-grade distributed systems. Awarded "Developer of the Quarter" at Join Venture AI.*  
-> *Self-taught engineer. 1.2+ years of professional experience shipping scalable backend services.*
+> *Backend engineer shipping production systems that serve real users and handle real money.*  
+> *Awarded **"Best Backend Developer of the Quarter"** at Join Venture AI (Nov 2025).*
 
 <br/>
 
@@ -24,13 +24,11 @@
 
 ## 👤 About
 
-I'm a **performance-driven Backend Engineer** with 1.2+ years of hands-on experience designing and shipping production-grade APIs, microservice architectures, and AI-integrated platforms. Currently a **Promoted Backend Developer** at **Join Venture AI** and a **Backend Engineer (Remote)** at **Systalo**.
+I'm a **Backend Developer** with 2 years of professional experience designing, building, and maintaining production-grade REST APIs, microservice architectures, and data-driven business platforms. I've shipped systems that handle live financial transactions, real user traffic, and cross-border e-commerce operations.
 
-I build systems that handle real traffic, real money, and real users — from Stripe subscription orchestration to AI-powered property analysis engines running behind isolated Docker networks.
+My work spans customer-facing platforms, admin dashboards, order lifecycle management, payment orchestration (Stripe, Bkash), and event-driven backend systems — the core patterns behind CRM, sales, and B2B software.
 
-**Currently exploring:** DevOps · AWS · Cloud Engineering · Site Reliability Engineering (SRE)
-
-<br/>
+**B.Sc. in Computer Science & Engineering** — UITS, Dhaka
 
 ---
 
@@ -38,11 +36,84 @@ I build systems that handle real traffic, real money, and real users — from St
 
 | Role | Company | Period | Highlight |
 |------|---------|--------|-----------|
-| **Backend Engineer** | Systalo *(Remote)* | Jan 2026 – Present | Event-Driven Architecture, Celery + Redis, high-traffic vendor dashboards |
-| **Backend Developer** *(Promoted)* | Join Venture AI | Apr 2025 – Present | AI-based R&D, real-time WebSocket chat, EDA workflows, live deployments |
-| **Backend Developer** | FAARNS *(Remote)* | Dec 2024 – Present | Drop-shipping & parcel-forwarding platforms ([AmericaToBD.us](https://americatobd.us)) |
+| **Backend Developer** | Star Innovative Technologies Ltd. | Apr 2026 – Present | FastAPI performance optimization, PostgreSQL tuning, code reviews |
+| **Backend Developer** | Join Venture AI | Apr 2025 – Apr 2026 | 3 production apps for global clients, WebSocket services, CI/CD pipelines |
+| **Backend Developer (Remote)** | FAARNS | Dec 2024 – Jun 2025 | Built [americatobd.com](https://americatobd.com) — live e-commerce with real transactions |
 
 > 🏆 **Best Backend Developer of the Quarter** — Join Venture AI, Nov 2025
+
+---
+
+## 🚀 Production & Featured Projects
+
+### 🟢 [AmericaToBD](https://americatobd.com) — Live Production E-Commerce Platform
+> **Status: Live in production since 2025 · Serving real users · Processing real transactions**
+
+Cross-border e-commerce platform with automated product scraping from Amazon, eBay, Walmart, and Nike.
+
+- Built complete backend: order management, customer lifecycle, payment integration (Bkash), admin dashboard
+- Automated scraping pipeline with Playwright + BeautifulSoup4 and graceful fallback to manual forms
+- Production incident handling, uptime maintenance, and database optimization
+
+**Stack:** `Django` `PostgreSQL` `Playwright` `BeautifulSoup4` `JWT` `Bkash`
+
+---
+
+### 🟢 [Scan2Home](https://github.com/mohammadSelimReza/Scan2Home-Smart-Reusable-Board) — Microservices Real Estate Platform
+> **Status: Production-deployed · Microservices architecture · CI/CD automated**
+
+Property management platform with AI-powered analysis running in isolated containers.
+
+- Microservices architecture: Django Core API + isolated FastAPI AI module via internal Docker network
+- AI module operates offline with enterprise-grade security — no external internet access
+- GitHub Actions CI/CD for automated testing and deployment
+
+**Stack:** `Django` `FastAPI` `PostgreSQL` `Redis` `Docker Compose` `GitHub Actions`
+
+---
+
+### [Phlebotomy Staffing Backend](https://github.com/mohammadSelimReza/Phlebotomy-Staffing-App-s-Backend-Server) — Clinical Staffing Platform
+> Cross-border marketplace for matching, scheduling, and billing between businesses and medical professionals
+
+- Stripe subscription billing with multi-tier plans, invoice cycles, and split payments
+- User lifecycle management: credential verification, compliance contracts, availability scheduling
+- Role-based access control across 4 user types
+
+**Stack:** `Django REST Framework` `PostgreSQL` `Stripe API` `Redis` `Docker` `CI/CD`
+
+---
+
+### [Tether Voice Platform](https://github.com/mohammadSelimReza/AI-Voice-Conversation-Platform-Backend-Server) — AI Voice & Chat Platform
+
+- Voice cloning + real-time AI chat with streaming TTS and WebSocket communication
+- Firebase push notifications for cross-platform delivery
+
+**Stack:** `Django` `FastAPI` `PostgreSQL` `Redis` `Firebase FCM` `Docker`
+
+---
+
+### [Car Rental (RentHub)](https://github.com/mohammadSelimReza/Car-Rental-Management) — Multi-Role Marketplace
+
+- WebSocket real-time chat, RBAC across 4 roles, Stripe booking payments & agency payouts
+
+**Stack:** `Django 6.0` `DRF` `Django Channels` `Celery` `PostgreSQL` `Redis` `Stripe`
+
+---
+
+### [Bestowe](https://github.com/mohammadSelimReza/Project-Bestowe-Smart-Gift-Finder-Backend) — AI Gift Recommendation Engine
+
+- LLM-powered recommendations with collaborative pool-funding via Stripe + Shopify API
+
+**Stack:** `Django DRF` `LLMs` `Stripe` `Shopify API` `PostgreSQL`
+
+---
+
+### [JobPulse](https://github.com/mohammadSelimReza/JobPulse-Web-App) — Production SMS Job Alerts API
+
+- REST API distributing job offers via SMS with OTP auth and Orange SMS API (OAuth2)
+- Celery Beat automated broadcasts, USSD webhook support, CSV bulk upload
+
+**Stack:** `Django 6.0` `DRF` `Celery` `PostgreSQL` `Redis` `Orange SMS API`
 
 ---
 
@@ -57,10 +128,11 @@ I build systems that handle real traffic, real money, and real users — from St
 <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td><b>Data & Caching</b></td>
+<td><b>Databases & Caching</b></td>
 <td>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
@@ -68,7 +140,7 @@ I build systems that handle real traffic, real money, and real users — from St
 </td>
 </tr>
 <tr>
-<td><b>DevOps & Infra</b></td>
+<td><b>DevOps & Cloud</b></td>
 <td>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
@@ -79,10 +151,11 @@ I build systems that handle real traffic, real money, and real users — from St
 </td>
 </tr>
 <tr>
-<td><b>Auth & Security</b></td>
+<td><b>Auth & Payments</b></td>
 <td>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/RBAC-5C2D91?style=flat-square"/>
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square"/>
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/>
 </td>
@@ -102,82 +175,13 @@ I build systems that handle real traffic, real money, and real users — from St
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Featured Engineering Work
-
-<details open>
-<summary><b>1. Event-Driven Real Estate Platform (Scan2Home)</b></summary>
-<br>
-
-A robust microservices architecture orchestrating property inventory management and automated data extraction.
-
--   **The Architecture:** Django (Core API) decoupled from an isolated FastAPI AI module via a secure internal Docker network, reverse-proxied by Nginx.
--   **The Engineering Art:** Implemented complete service isolation where the AI module operates without internet access, strictly communicating over an internal container socket for enterprise-grade security.
-
-**Tech Highlights:** `Django` `FastAPI` `PostgreSQL 16` `Docker Compose` `GitHub Actions`  
-🔗 [Repository Details](https://github.com/mohammadSelimReza/Scan2Home-Smart-Reusable-Board)
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>2. Global Shopping Automation Engine</b></summary>
-<br>
-
-A resilient product sourcing platform that automates data extraction across major international marketplaces (Amazon, eBay, Nike).
-
--   **The Architecture:** A headless browser automation engine built with Playwright and BeautifulSoup, backed by structured PostgreSQL storage and Cloudinary media handling.
--   **The Engineering Art:** Designed an automated scraping pipeline that gracefully degrades to manual forms upon failure, ensuring zero stuck orders. Integrated local payment gateways (Bkash) with automated PDF invoicing.
-
-**Tech Highlights:** `Playwright` `BeautifulSoup` `Django 5.x` `WeasyPrint` `JWT`  
-🔗 [Repository Details](https://github.com/mohammadSelimReza/Global-shopping-automation-and-forwarding-platform-server)
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>3. Clinical Staffing Orchestrator (Phlebotomy Backend)</b></summary>
-<br>
-
-A cross-border marketplace backend orchestrating the matching, scheduling, and billing between businesses and independent medical professionals.
-
--   **The Architecture:** A microservice-inspired REST API mimicking MERN stack decoupling, built on Django with heavy use of PostgreSQL (Core) and Redis (Cache/Broker).
--   **The Engineering Art:** Engineered complex Stripe subscription lifecycles, handling multi-tier billing, invoice cycles, and split payments seamlessly. Separated domain concerns into deep user modularity (availability matrices vs. digital compliance contracts).
-
-**Tech Highlights:** `Stripe API` `Redis` `Docker` `Django REST Framework`  
-🔗 [Repository Details](https://github.com/mohammadSelimReza/Phlebotomy-Staffing-App-s-Backend-Server)
-
-</details>
-
-<br>
-
-<details open>
-<summary><b>4. AI-Powered Gift Recommendation System (Bestowe)</b></summary>
-<br>
-
-An intelligent backend service providing personalized gift recommendations and split-funding mechanisms.
-
--   **The Architecture:** LLM-integrated recommendation engine piped through a robust multi-user authentication layer and database schema.
--   **The Engineering Art:** Solved the complex logic of multi-user "pool funding" by reconciling Stripe payments with external Shopify API endpoints for third-party marketplace checkout.
-
-**Tech Highlights:** `LLMs` `PostgreSQL` `Shopify API` `Simple JWT`  
-� [Repository Details](https://github.com/mohammadSelimReza/Project-Bestowe-Smart-Gift-Finder-Backend)
-
-</details>
-
----
-
 ## 🧠 Problem Solving & DSA
-
-Currently sharpening algorithmic thinking through competitive programming:
 
 <div align="center">
 
@@ -192,28 +196,14 @@ Currently sharpening algorithmic thinking through competitive programming:
 
 ---
 
-## 🎓 Education & Certification
+## 🎓 Education & Certifications
 
 | Credential | Institution | Period |
 |------------|-------------|--------|
+| **B.Sc. in Computer Science & Engineering** | UITS, Dhaka | — |
 | **CSE Fundamentals Certificate** | Phitron | Sep 2023 – Mar 2025 |
+| **DevOps with AWS Mastery** | Poridhi.io | Apr 2026 – ongoing |
 | 🏆 Best Backend Developer of the Quarter | Join Venture AI | Nov 2025 |
-
-> 💡 **Self-taught engineer.** Every skill in my stack was earned through grit, open-source projects, and shipping real products — not a degree.
-
----
-
-## 🗺️ What's Next
-
-```
-📍 Current Focus
-├── 🔧 Backend Engineering     → Production systems at scale
-├── ☁️ AWS & Cloud             → EC2, ECS, S3, RDS, CloudWatch
-├── 🐳 DevOps                  → Docker, CI/CD, IaC (Terraform)
-└── 🔍 SRE (Site Reliability)  → Monitoring, SLOs, Incident Response
-```
-
-**Goal:** Transition into a **Site Reliability Engineering** role at a global MNC, combining my deep backend expertise with infrastructure & operations knowledge.
 
 ---
 
@@ -240,11 +230,11 @@ Currently sharpening algorithmic thinking through competitive programming:
 
 ### 💬 Let's Connect
 
-I'm open to **backend engineering**, **DevOps**, and **SRE** roles at global companies.  
-If you're building something ambitious, let's talk.
+I'm open to **backend engineering** opportunities — building production systems that matter.  
+If you're hiring, let's talk.
 
 [![Email](https://img.shields.io/badge/selim.reza.uits@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:selim.reza.uits@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-reza-a38a37318/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selim-reza-dev/)
 [![Phone](https://img.shields.io/badge/+8801770821121-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801770821121)
 
 </div>
